@@ -1,0 +1,2 @@
+# socman
+Soccer manager
