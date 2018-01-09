@@ -4,17 +4,17 @@
 <html lang="en">
 <head>
 	<!-- Bootstrap core CSS -->
-    <%-- <link rel="stylesheet" href="<c:url value="/WEB-INF/pages/resources/css/vendor/bootstrap/bootstrap.min.css"/>" > --%>
+    <link rel="stylesheet" href="resources/css/vendor/bootstrap/bootstrap.min.css" >
 
     <!-- Custom fonts for this template -->
-    <link rel="stylesheet" href="<c:url value="/resources/css/vendor/font-awesome/font-awesome.min.css"/>" >
-    <link rel="stylesheet" href="<c:url value="../pages/resources/css/vendor/simple-line-icons/simple-line-icons.css"/>" >
+    <link rel="stylesheet" href="resources/css/vendor/font-awesome/font-awesome.min.css" >
+    <link rel="stylesheet" href="resources/css/vendor/simple-line-icons/simple-line-icons.css" >
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Muli">
 
     <!-- Plugin CSS -->
-    <%-- <link rel="stylesheet" href="<c:url value="/resources/device-mockups/device-mockups.min.css"/>" > --%>
+    <link rel="stylesheet" href="/resources/device-mockups/device-mockups.min.css" >
 
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="/resources/css/new-age.min.css">
@@ -28,15 +28,15 @@
 	<%@ include file="../pages/commons/sections.jsp"%>
 	<%@ include file="../pages/commons/footer.jsp"%>
 
-<!--     Bootstrap core JavaScript
-    <script src="/resources/js/vendor/jquery/jquery.min.js"></script> -->
-    <!-- <script src="../pages/resources/js/vendor/jquery/bootstrap.bundle.min.js"></script> -->
+    <!-- Bootstrap core JavaScript -->
+    <script src="/resources/js/vendor/jquery/jquery.min.js"></script>
+    <script src="/resources/js/vendor/jquery/bootstrap.bundle.min.js"></script>
 
-<!--     Plugin JavaScript
+    <!-- Plugin JavaScript -->
     <script src="/resources/js/vendor/jquery-easing/jquery.easing.min.js"></script>
 
-    Custom scripts for this template
-    <script src="/resources/js/new-age.min.js"></script> -->
+    <!-- Custom scripts for this template -->
+    <script src="/resources/js/new-age.min.js"></script>
 
 </body>
 </html>
