@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
 	<!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="resources/css/vendor/bootstrap/bootstrap.min.css" >
+    <link rel="stylesheet" href="/resources/css/vendor/bootstrap/bootstrap.min.css" >
 
     <!-- Custom fonts for this template -->
     <link rel="stylesheet" href="resources/css/vendor/font-awesome/font-awesome.min.css" >
