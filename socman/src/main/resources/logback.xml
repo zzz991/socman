@@ -7,7 +7,7 @@
 			</Pattern>
 		</layout>
 	</appender>
-	<logger name="com.mkyong.controller" level="debug" additivity="false">
+	<logger name="com.socman.application" level="debug" additivity="false">
 		<appender-ref ref="STDOUT" />
 	</logger>
 	<root level="error">
