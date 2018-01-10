@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
 	<!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="/resources/css/vendor/bootstrap/bootstrap.min.css" >
+    <link rel="stylesheet" href="resources/css/vendor/bootstrap/bootstrap.min.css" >
 
     <!-- Custom fonts for this template -->
     <link rel="stylesheet" href="resources/css/vendor/font-awesome/font-awesome.min.css" >
@@ -14,10 +14,10 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Muli">
 
     <!-- Plugin CSS -->
-    <link rel="stylesheet" href="/resources/device-mockups/device-mockups.min.css" >
+    <link rel="stylesheet" href="resources/device-mockups/device-mockups.min.css" >
 
     <!-- Custom styles for this template -->
-    <link rel="stylesheet" href="/resources/css/new-age.min.css">
+    <link rel="stylesheet" href="resources/css/new-age.min.css">
     
 	<%@ include file="../pages/commons/meta.jsp"%>
 	<title>Index Page</title>
@@ -29,14 +29,14 @@
 	<%@ include file="../pages/commons/footer.jsp"%>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="/resources/js/vendor/jquery/jquery.min.js"></script>
-    <script src="/resources/js/vendor/jquery/bootstrap.bundle.min.js"></script>
+    <script src="resources/js/vendor/jquery/jquery.min.js"></script>
+    <script src="resources/js/vendor/jquery/bootstrap.bundle.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="/resources/js/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="resources/js/vendor/jquery-easing/jquery.easing.min.js"></script>
 
     <!-- Custom scripts for this template -->
-    <script src="/resources/js/new-age.min.js"></script>
+    <script src="resources/js/new-age.min.js"></script>
 
 </body>
 </html>
