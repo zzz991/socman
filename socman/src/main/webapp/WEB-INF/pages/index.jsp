@@ -29,14 +29,15 @@
 	<%@ include file="../pages/commons/footer.jsp"%>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="resources/js/vendor/jquery/jquery.min.js"></script>
-    <script src="resources/js/vendor/jquery/bootstrap.bundle.min.js"></script>
+    <!-- <script src="resources/js/vendor/jquery/jquery.min.js"></script> -->
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <script type="text/javascript" src="resources/js/vendor/jquery/bootstrap.bundle.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="resources/js/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="resources/js/vendor/jquery-easing/jquery.easing.min.js"></script>
 
     <!-- Custom scripts for this template -->
-    <script src="resources/js/new-age.min.js"></script>
+    <script type="text/javascript" src="resources/js/new-age.min.js"></script>
 
 </body>
 </html>
